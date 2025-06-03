@@ -30,7 +30,7 @@ CryptoBuddy: These cryptos are trending up: Bitcoin, Cardano 🚀
 
 ## Screenshots
 
-![Screenshot](screenshot1.png)
----
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
 
 **Disclaimer:** Crypto is risky—always do your own research!
